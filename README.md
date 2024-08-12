@@ -17,6 +17,6 @@ Criação, Acesso e Modificação de:
 - Ambiente RStudio
 - Visualização de Dados
 
-[x]: Acompanha Exercícios Práticos e suas Resoluções
+- [x] Acompanha Exercícios Práticos e suas Resoluções
 
 
